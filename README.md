@@ -5,6 +5,18 @@ Aplikasi ini menggunakan **validasi GPS** untuk memastikan karyawan melakukan pr
 
 ---
 
+## 📥 Download Aplikasi
+Untuk mencoba aplikasi ini, silakan download file instalasi Android dalam bentuk archive berikut:
+
+🔽 **Download Program:** `program.rar`  
+*(Berisi file APK dan source Android)*
+
+yang berada pada link github ini
+
+> Pastikan extract terlebih dahulu sebelum instalasi.
+
+---
+
 ## ✨ Fitur Utama
 
 ### 📱 Aplikasi Android
@@ -35,7 +47,7 @@ Aplikasi ini menggunakan **validasi GPS** untuk memastikan karyawan melakukan pr
 ---
 
 ## 🎯 Tujuan Proyek
-Proyek ini dikembangkan untuk mendukung proses absensi yang lebih praktis, efisien, dan real-time tanpa harus menggunakan metode manual, serta memudahkan pihak admin dalam memantau kehadiran karyawan melalui dashboard.
+Proyek ini dikembangkan untuk mendukung proses absensi yang lebih praktis, efisien, dan real-time tanpa metode manual, serta memudahkan pihak admin memantau kehadiran karyawan melalui dashboard.
 
 ---
 
